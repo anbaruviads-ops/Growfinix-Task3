@@ -1,0 +1,8 @@
+.env
+config.py
+data/mbti.csv
+models/*.pkl
+__pycache__/
+*.pyc
+venv/
+career.db
